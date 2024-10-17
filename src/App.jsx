@@ -26,6 +26,7 @@ function App() {
         </p>
         <div>
           <p>Please contribut our project</p>
+          <p>Please check my protfolio</p>
         </div>
       </div>
       <p className="read-the-docs">
